@@ -1,0 +1,2 @@
+# GetHookAppByAppName
+通过App名称搜索越狱APP脚本
